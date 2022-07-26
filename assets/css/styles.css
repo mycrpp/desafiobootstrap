@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #212529;
+    font-size: 16px;
+}
+
+
+h5 {
+    font-size: 20px;
+}
+
+
+.precio {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+h6 {
+    font-weight: 300;
+    color: #707070;
+    font-size: 16px;
+}
+
+
+.nav-item {
+    font-weight: 500;
+}
